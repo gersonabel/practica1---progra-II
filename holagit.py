@@ -1,1 +1,1 @@
-print("Aprendiendo git")
+print("Aprendiendo git en el lunes")
